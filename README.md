@@ -4,6 +4,8 @@ For a quick overview watch this video: [Kurzfassung Projektvorstellung](https://
 
 Check the responsibilities in the documentation.
 
+To try the application, it is advised to use the "Infostructure VR_Dplmt.zip".
+
 ### MedadatenAusExcel
 
 A Java application to convert an excel file, which was exported from Simple BIM, to csv-format.
