@@ -1,6 +1,7 @@
 # InfoStructureVR
 A software project, which six students, including me, made within a year. It is about loading in BIM data from buildings and to visualize them, so one can explore it in Virtual Reality. This repository includes an example of a building, which was imported through data smith inside UE4. The meta data provided inside the application is extracted from the BIM data and converted to a .csv-file. This csv-file is imported to UE4 and the data is asigned to the right object at runtime.
 For a quick overview watch this video: [Kurzfassung Projektvorstellung](https://www.youtube.com/watch?v=K2HljHToOYE)
+
 Check the responsibilities in the documentation.
 
 ### MedadatenAusExcel
