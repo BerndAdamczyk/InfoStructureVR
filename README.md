@@ -14,7 +14,7 @@ A Java application to convert an excel file, which was exported from Simple BIM,
 
 Empty template which uses meta data from the Datasmith import, but it is not much data. To change the meta data to the data from the generated csv-file:
 
-Inside UE4 Project go to Content/CollaborativeViewer/UMG/GameMenu/NewContextualWidget/NewContextualWidgetBlueprint
+Inside UE4 Project go to "Content/CollaborativeViewer/UMG/GameMenu/NewContextualWidget/NewContextualWidgetBlueprint"
 connect the exec path from "ReadyToSpawnMeta" to the unlinked part above.
 
 ### Infostructure VR_ImportedProject
